@@ -1,10 +1,8 @@
-# discord verify bot
+# discord verify bot(anti vpn)
 
 feature:
 
-anti alt, anti vpn/proxy
-
-make sure u fill `.env` correct or bot not work
+anti alt, anti vpn/proxy, uhhh and cool
 
 
 ## clone repo
