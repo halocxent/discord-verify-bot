@@ -1,4 +1,15 @@
-# discord verify bot(anti vpn)
+# discord verify bot
+
+Discord bot with anti vpn/proxy/alt + hcaptcha verification.
+
+support:
+pnpm(tested)
+
+bun(tested)
+
+npm(tested)
+
+yarn(not tested)
 
 feature:
 
