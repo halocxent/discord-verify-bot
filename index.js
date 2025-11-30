@@ -76,7 +76,7 @@ const getHtml = (data) => `
                 <button type="submit">Verify</button>
             </form>
             <div class="info">
-                By verifying, you agree to a one-time IP address check to prevent VPN/Proxy abuse.
+                Powered by hCaptcha -Made by halocxent(on github)
             </div>
         `}
     </div>
