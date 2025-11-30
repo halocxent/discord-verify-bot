@@ -1,5 +1,9 @@
 # discord verify bot
 
+feature:
+
+anti alt, anti vpn/proxy
+
 make sure u fill `.env` correct or bot not work
 
 
