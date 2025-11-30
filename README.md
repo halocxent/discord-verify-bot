@@ -3,6 +3,7 @@
 Discord bot with anti vpn/proxy/alt + hcaptcha verification.
 
 support:
+
 pnpm(tested)
 
 bun(tested)
